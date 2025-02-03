@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @shroffsagar
-- 👀 I’m interested in facing and overcoming interesting unsolved problems in Test Automation
-- 🌱 I’m currently learning Python in depth
-- 💞️ I’m looking to collaborate on anything in Test Automation / Ad-Hoc Scripting space
+- 👋 Hi there! I'm Sagar Shroff
+- 👀 Passionate about solving challenging problems in Test Automation
+- 🌱 Currently exploring LLM-based applications using open-source frameworks
+- 💞️ Open to collaborating on Test Automation & LLM projects
 - 📫 You can reach me over here or on linkedin: https://www.linkedin.com/in/sagar-shroff
 
 <!---
