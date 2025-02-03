@@ -9,7 +9,7 @@
 
 ## My Stats
 
-![My GitHub stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=shroffsagar&include_orgs=true&show_icons=true&count_private=true)
+![My GitHub stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=shroffsagar&include_orgs=true&show_icons=true&count_private=true&hide=stars,prs,issues,contribs)
 
 ![My GitHub stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=shroffsagar&include_orgs=true&show_icons=true&count_private=true)
 
